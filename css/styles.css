@@ -1,3 +1,25 @@
+*{
+	margin: 0px;
+	padding : 0px;
+}
 body{
   font-family: Oswald;
+}
+.da{
+  background-color:red;
+  width: 100%;
+  height: auto;
+}
+.text-center{
+  font-size:2vw;
+}
+.text-center2{
+	text-align:center;
+}
+#slideshow{
+	min-width:320px;
+	min-height:200px;
+	max-width:60%;
+	min-height:400px;
+	margin:auto;
 }
